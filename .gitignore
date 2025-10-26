@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+macos/Flutter/ephemeral/
+macos/Pods/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+coverage/
+*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.log
+
+# Generated files
+*.lock
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.flutter-plugins
+*.DS_Store
